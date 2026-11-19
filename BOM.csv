@@ -11,5 +11,7 @@ TVC gimbal,3D printed,1,300.00,300.00,,,Paying myself,
 PCb pre built,Part,1,4000.00,4000.00,https://cart.jlcpcb.com/smt-order/?pcbFileNo=dd3eda48a1cb4bf5af7d120f541f5ed3,,Grant,
 shipping estimate,Shipping,1,3000.00,3000.00,,,Grant,
 tax,Tax or fee,1,2000.00,2000.00,,,Grant,
-Total,,,,14633.00,,,,
-Grant total,,,,14333.00,,,,
+nRF24L01 + PA + LNA,Part,2,169.00,338.00,https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km/,robu,Grant,It is not shown in cart ss as i recently added as i forgot. There are 2 cuz one is or ground station
+3.3V Adapter Board for NRF24L01 Wireless Module,Part,2,32.00,64.00,https://quartzcomponents.com/products/3-3v-adapter-board-for-nrf24l01-wireless-module,quartz comp,Grant,It is not shown in cart ss as i recently added as i forgot
+Total,,,,15035.00,,,,
+Grant total,,,,14735.00,,,,
