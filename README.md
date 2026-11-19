@@ -7,4 +7,5 @@ I initially planned on using a actual f class engine but due to legal issues and
 ![VTVL Flight Computer PCB Layout](11.JPG)
 
 ## The TVC design
+### REVIEWERS PLEASE NOTE THAT THE MOTOR SEEN IN THIS IMAGE WILL BE USED IN ANOTHER PROJECT AND I CAN USE THE PROPELLORS FOR THIS PROJECT WHICH IS ALSO STILL NOT COMPLETELY NECCESSARY
 ![VTVL TVC design](111.jpg)
