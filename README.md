@@ -5,3 +5,6 @@ This project has been  a lifelong dream of mine to be honest. Ive been trying fo
 I initially planned on using a actual f class engine but due to legal issues and tight budget(for me) i eventually got an idea of using a dual bldc anti coaxial(thats the word i beleieve ) setup to avoid roll issues(connservation of angular momentum). For now this is liminted to my tvc model and flight controller with electronics.
 ##A pic of my PCB
 ![VTVL Flight Computer PCB Layout](11.JPG)
+
+## The TVC design
+![VTVL TVC design](111.JPG)
