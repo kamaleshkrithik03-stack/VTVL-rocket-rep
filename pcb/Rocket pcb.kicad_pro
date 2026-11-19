@@ -541,7 +541,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../",
+      "plot": "../rocket project/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -686,7 +686,7 @@
         "uuid": "7d9c4cd0-1219-4383-a87b-900f8b907ad5"
       }
     ],
-    "used_designators": "#PWR1-5,D1,J1-26,Q1,R1-10,S1,SW1,U1-2",
+    "used_designators": "#PWR1-5,D1,J1-28,Q1,R1-10,S1,SW1,U1-2",
     "variants": []
   },
   "sheets": [
