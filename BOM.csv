@@ -1,0 +1,13 @@
+Part,Type,Quantity,Unit price (INR),Line total (INR),Link,Vendor,Funding,Notes
+lipo 3s battery 80c,Part,1,1859.00,1859.00,https://robu.in/product/bonka-11-1v-1800mah-35c-3s-lithium-polymer-battery-pack/?gad_source=1&gad_campaignid=17427802559&gbraid=0AAAAADvLFWfh-u_b8pj9c71hfWceFrlER&gclid=Cj0KCQiAtvXXBhC2ARIsAJc8SUQKUkd1R5xUUYEjsReaK-WFoKHvwYxBhdInwt0QCw27tPaby3TtTQwaAuP7EALw_wcB,robu,Grant,
+lipo battery charger,Part,1,294.00,294.00,https://quartzcomponents.com/collections/all/products/b3-lithium-battery-charger-for-2s-and-3s-lipo-batteries,quartz components,Grant,
+30 a esc,Part,2,305.00,610.00,https://quartzcomponents.com/collections/all/products/bldc-30a-esc-brushless-dc-motor-electronic-speed-controller,quartz components,Grant,
+A2212 BLDC 2200kv,Part,2,410.00,820.00,https://quartzcomponents.com/collections/all/products/a2212-6t-2200kv-bldc-motor,quartz components,Grant,
+STM32F411CEU6 STM32,Part,1,398.00,398.00,https://quartzcomponents.com/products/stm32f411ceu6-minimum-system-board-microcomputer-stm32-arm-core-board,quartz components,Grant,
+mpu6050,Part,1,127.00,127.00,https://quartzcomponents.com/products/mpu6050-gyroscope-accelerometer-sensor,quartz componenets,Grant,
+MS5611,Part,1,799.00,799.00,https://www.amazon.in/REES52-MS5611-Atmospheric-Pressure-Communication/dp/B07KCNHZHJ,amazon,Grant,
+MG90,Part,3,142.00,426.00,https://quartzcomponents.com/collections/all/products/tower-pro-mg90s-servo-motor-with-metal-gear,quartz components,Grant,
+TVC gimbal,3D printed,1,300.00,300.00,,,Paying myself,
+PCb pre built,Part,1,4000.00,4000.00,https://cart.jlcpcb.com/smt-order/?pcbFileNo=dd3eda48a1cb4bf5af7d120f541f5ed3,,Grant,
+Total,,,,9633.00,,,,
+Grant total,,,,9333.00,,,,
