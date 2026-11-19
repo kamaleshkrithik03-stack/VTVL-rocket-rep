@@ -7,4 +7,4 @@ I initially planned on using a actual f class engine but due to legal issues and
 ![VTVL Flight Computer PCB Layout](11.JPG)
 
 ## The TVC design
-![VTVL TVC design](111.JPG)
+![VTVL TVC design](111.jpg)
